@@ -9,3 +9,4 @@ The Repository contains following files/folders
               d. NeuralFinal.ipynb - Has the Final code of Neural Network with 1 hiden layer and some experiments with the learning rate and number of iterations.
 2. output- This has all the output files, predicted by the models.
 3. data set- This has all the training and test data set.
+4. Report- This contains the report file of the project.
